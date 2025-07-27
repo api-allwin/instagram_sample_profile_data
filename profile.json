@@ -1,0 +1,1639 @@
+[
+    {
+        "id": 4,
+        "username": "andrew.lee",
+        "title": "Your story",
+        "fullName": "Andrew Lee",
+        "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
+        "isVerified": true,
+        "bio": "This is your profile!",
+        "followers": 123,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [],
+        "stories": [
+            {
+                "id": 4,
+                "image": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?q=80&w=1085&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "2h"
+            }
+        ],
+        "isYourStory": true
+    },
+    {
+        "id": 1,
+        "username": "traveler",
+        "fullName": "Travel Enthusiast",
+        "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+        "isVerified": true,
+        "bio": "Exploring the world one mountain at a time 🌍",
+        "followers": 12456,
+        "following": 342,
+        "postsCount": 3,
+        "posts": [
+            {
+                "id": 1,
+                "image": "https://images.unsplash.com/photo-1682695794816-7b9da18ed470?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+                "caption": "Beautiful view from the top! 🗻 #adventure #travel",
+                "likes": 1243,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "adventure_seeker",
+                        "text": "Amazing view! Where is this?",
+                        "timestamp": "1 hour ago"
+                    },
+                    {
+                        "id": 2,
+                        "username": "nature_lover",
+                        "text": "The colors are breathtaking! 😍",
+                        "timestamp": "45 minutes ago"
+                    }
+                ],
+                "timestamp": "2h",
+                "isLiked": false,
+                "isSaved": false
+            },
+            {
+                "id": 101,
+                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Sunset by the ocean 🌊 #vacation #paradise",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "sun_lover",
+                        "text": "This is my dream destination!",
+                        "timestamp": "3h"
+                    }
+                ],
+                "timestamp": "1d",
+                "isLiked": false,
+                "isSaved": false
+            },
+            {
+                "id": 102,
+                "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Lost in the wilderness #nature #hiking",
+                "likes": 756,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 1,
+                "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "3h"
+            },
+            {
+                "id": 2,
+                "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1121&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "food_lover",
+        "fullName": "Foodie Queen",
+        "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+        "isVerified": false,
+        "bio": "Sharing my culinary adventures 🍳",
+        "followers": 8765,
+        "following": 421,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 2,
+                "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Delicious pasta for dinner tonight! 🍝 #foodie #homecooking",
+                "likes": 892,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "chef_mike",
+                        "text": "Recipe please! Looks delicious!",
+                        "timestamp": "30 minutes ago"
+                    },
+                    {
+                        "id": 2,
+                        "username": "hungry_hippo",
+                        "text": "I can almost smell it through the screen!",
+                        "timestamp": "15 minutes ago"
+                    }
+                ],
+                "timestamp": "5h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 3,
+                "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "username": "tech_guy",
+        "fullName": "Tech Enthusiast",
+        "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+        "isVerified": true,
+        "bio": "Gadgets | Coding | Tech Reviews",
+        "followers": 15678,
+        "following": 289,
+        "postsCount": 2,
+        "posts": [
+            {
+                "id": 3,
+                "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Working on my new setup. What do you think? #tech #workspace",
+                "likes": 567,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "gadget_guru",
+                        "text": "Specs? That monitor looks awesome!",
+                        "timestamp": "2h"
+                    },
+                    {
+                        "id": 2,
+                        "username": "coder_life",
+                        "text": "Clean setup! What keyboard is that?",
+                        "timestamp": "1 hour ago"
+                    }
+                ],
+                "timestamp": "1d",
+                "isLiked": false,
+                "isSaved": false
+            },
+            {
+                "id": 103,
+                "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New coding project in progress #developer #programming",
+                "likes": 432,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "python_lover",
+                        "text": "What language are you using?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 5,
+        "username": "fitness_coach",
+        "fullName": "Alex Johnson",
+        "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+        "isVerified": true,
+        "bio": "Helping you achieve your fitness goals 💪",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 104,
+                "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Morning workout complete! #fitness #motivation",
+                "likes": 765,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "gym_buddy",
+                        "text": "Looking strong! What's your routine?",
+                        "timestamp": "2h"
+                    }
+                ],
+                "timestamp": "6h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 5,
+                "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "8h"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "username": "art_lover",
+        "fullName": "Sophia Chen",
+        "avatar": "https://randomuser.me/api/portraits/women/33.jpg",
+        "isVerified": false,
+        "bio": "Painting my world with colors 🎨",
+        "followers": 3456,
+        "following": 123,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 105,
+                "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "My latest artwork - acrylic on canvas #art #creative",
+                "likes": 543,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "art_critic",
+                        "text": "Beautiful use of colors!",
+                        "timestamp": "1d"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 7,
+        "username": "bookworm",
+        "fullName": "David Miller",
+        "avatar": "https://randomuser.me/api/portraits/men/65.jpg",
+        "isVerified": false,
+        "bio": "Getting lost in stories 📚",
+        "followers": 2345,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 106,
+                "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Current read - so captivating! #books #reading",
+                "likes": 321,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 8,
+        "username": "music_producer",
+        "fullName": "DJ Waves",
+        "avatar": "https://randomuser.me/api/portraits/men/88.jpg",
+        "isVerified": true,
+        "bio": "Creating beats that move your soul 🎵",
+        "followers": 18765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 107,
+                "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New track dropping Friday! #music #producer",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "fan123",
+                        "text": "Can't wait! Your last track was fire!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "1d",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 6,
+                "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "username": "fashion_icon",
+        "fullName": "Emma Styles",
+        "avatar": "https://randomuser.me/api/portraits/women/77.jpg",
+        "isVerified": true,
+        "bio": "Fashion is my passion 👗",
+        "followers": 23456,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 108,
+                "image": "https://images.unsplash.com/photo-1635447272615-a414b7ea1df4?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Spring collection preview! #fashion #style",
+                "likes": 3456,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "style_lover",
+                        "text": "Where can I buy this?",
+                        "timestamp": "3h"
+                    }
+                ],
+                "timestamp": "5h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 7,
+                "image": "https://images.unsplash.com/photo-1638555063519-d009e6f3b28b?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "2h"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "username": "pet_lover",
+        "fullName": "Animal Friend",
+        "avatar": "https://randomuser.me/api/portraits/women/55.jpg",
+        "isVerified": false,
+        "bio": "All about furry friends 🐶🐱",
+        "followers": 5678,
+        "following": 789,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 109,
+                "image": "https://plus.unsplash.com/premium_photo-1666777247416-ee7a95235559?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "My happy boy 🐕 #dogs #pets",
+                "likes": 876,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "dog_mom",
+                        "text": "So adorable! What's his name?",
+                        "timestamp": "2h"
+                    }
+                ],
+                "timestamp": "5h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 8,
+                "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "username": "photography_pro",
+        "fullName": "Lucas Gray",
+        "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+        "isVerified": false,
+        "bio": "Capturing moments that last forever 📷",
+        "followers": 8765,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 110,
+                "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Golden hour magic #photography #nature",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "photo_fan",
+                        "text": "Stunning composition!",
+                        "timestamp": "3h"
+                    }
+                ],
+                "timestamp": "5h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 9,
+                "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "username": "yoga_master",
+        "fullName": "Priya Sharma",
+        "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+        "isVerified": false,
+        "bio": "Find your balance 🧘‍♀️",
+        "followers": 5432,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 111,
+                "image": "https://images.unsplash.com/photo-1676107240833-c5475c83c56a?q=80&w=683&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Morning flow to start the day right #yoga #mindfulness",
+                "likes": 654,
+                "comments": [],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 13,
+        "username": "gamer_zone",
+        "fullName": "Mark Evans",
+        "avatar": "https://randomuser.me/api/portraits/men/66.jpg",
+        "isVerified": true,
+        "bio": "Streaming my gaming adventures 🎮",
+        "followers": 18765,
+        "following": 432,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 112,
+                "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New high score! #gamer #achievement",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "game_fan",
+                        "text": "What's your setup?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 10,
+                "image": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "username": "plant_daddy",
+        "fullName": "Ethan Green",
+        "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+        "isVerified": false,
+        "bio": "Plant lover and urban gardener 🌱",
+        "followers": 4321,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 113,
+                "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "My new monstera addition #plants #urbanjungle",
+                "likes": 543,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "plant_mom",
+                        "text": "Where did you get it?",
+                        "timestamp": "2 days ago"
+                    }
+                ],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 15,
+        "username": "science_geek",
+        "fullName": "Dr. Neil Roberts",
+        "avatar": "https://randomuser.me/api/portraits/men/50.jpg",
+        "isVerified": true,
+        "bio": "Sharing the wonders of science 🔬",
+        "followers": 9876,
+        "following": 123,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 114,
+                "image": "https://images.unsplash.com/photo-1475906089153-644d9452ce87?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Fascinating new research in quantum physics #science #research",
+                "likes": 765,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "science_lover",
+                        "text": "Can you explain this in simpler terms?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 11,
+                "image": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "4h"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "username": "travel_addict",
+        "fullName": "Sarah Johnson",
+        "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+        "isVerified": false,
+        "bio": "Living out of a suitcase ✈️",
+        "followers": 6543,
+        "following": 789,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 115,
+                "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Another stamp in my passport! #wanderlust #adventure",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 12,
+                "image": "https://images.unsplash.com/photo-1524592714635-d77511a4834d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "username": "coffee_lover",
+        "fullName": "James Brew",
+        "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
+        "isVerified": false,
+        "bio": "All about that bean life ☕",
+        "followers": 3456,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 116,
+                "image": "https://plus.unsplash.com/premium_photo-1675435644687-562e8042b9db?q=80&w=749&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Perfect latte art this morning #coffee #barista",
+                "likes": 543,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "coffee_addict",
+                        "text": "Teach me your ways!",
+                        "timestamp": "2 days ago"
+                    }
+                ],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 18,
+        "username": "movie_buff",
+        "fullName": "Lisa Chen",
+        "avatar": "https://randomuser.me/api/portraits/women/70.jpg",
+        "isVerified": false,
+        "bio": "Film critic and cinema lover 🎬",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 117,
+                "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Just watched this masterpiece #film #cinema",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "film_fan",
+                        "text": "What did you think of the ending?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 13,
+                "image": "https://plus.unsplash.com/premium_photo-1684923604860-64e661f2ff72?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "username": "bike_life",
+        "fullName": "Tom Rider",
+        "avatar": "https://randomuser.me/api/portraits/men/55.jpg",
+        "isVerified": false,
+        "bio": "Two wheels, one love 🚴‍♂️",
+        "followers": 4321,
+        "following": 123,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 118,
+                "image": "https://plus.unsplash.com/premium_photo-1661963485383-223be0058b07?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "50 miles today! #cycling #fitness",
+                "likes": 654,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 20,
+        "username": "fashion_designer",
+        "fullName": "Olivia Wang",
+        "avatar": "https://randomuser.me/api/portraits/women/85.jpg",
+        "isVerified": true,
+        "bio": "Creating wearable art 👗",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 119,
+                "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New collection preview! #fashion #design",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "style_icon",
+                        "text": "When is the launch?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 14,
+                "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "2h"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "username": "health_nut",
+        "fullName": "Rachel Green",
+        "avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+        "isVerified": false,
+        "bio": "Nutrition and wellness coach 🥑",
+        "followers": 5432,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 120,
+                "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=684&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Meal prep Sunday! #health #nutrition",
+                "likes": 765,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "health_fan",
+                        "text": "Recipes please!",
+                        "timestamp": "2 days ago"
+                    }
+                ],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 22,
+        "username": "car_enthusiast",
+        "fullName": "Mike Speed",
+        "avatar": "https://randomuser.me/api/portraits/men/60.jpg",
+        "isVerified": true,
+        "bio": "Petrol runs in my veins 🚗",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 121,
+                "image": "https://images.unsplash.com/photo-1459603677915-a62079ffd002?q=80&w=1534&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New addition to the garage! #cars #automotive",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "car_lover",
+                        "text": "What's under the hood?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 15,
+                "image": "https://plus.unsplash.com/premium_photo-1683134240084-ba074973f75e?q=80&w=1295&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "username": "dance_queen",
+        "fullName": "Jessica Lee",
+        "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+        "isVerified": false,
+        "bio": "Dancing through life 💃",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 122,
+                "image": "https://images.unsplash.com/photo-1540324155974-7523202daa3f?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New choreography! #dance #performance",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 24,
+        "username": "architecture_lover",
+        "fullName": "Daniel Stone",
+        "avatar": "https://randomuser.me/api/portraits/men/70.jpg",
+        "isVerified": false,
+        "bio": "Appreciating structures around the world 🏛️",
+        "followers": 7654,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 123,
+                "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Modern marvel #architecture #design",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "design_lover",
+                        "text": "Where is this located?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 16,
+                "image": "https://images.unsplash.com/photo-1551038247-3d9af20df552?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "username": "soccer_star",
+        "fullName": "David Beck",
+        "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+        "isVerified": true,
+        "bio": "Professional footballer ⚽",
+        "followers": 18765,
+        "following": 432,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 124,
+                "image": "https://plus.unsplash.com/premium_photo-1661826732309-af9cab19a951?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Game day! Let's go team! #soccer #football",
+                "likes": 3456,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "fan123",
+                        "text": "Good luck today!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "5h",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 17,
+                "image": "https://images.unsplash.com/photo-1517747614396-d21a78b850e8?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "username": "makeup_artist",
+        "fullName": "Sophie Taylor",
+        "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+        "isVerified": false,
+        "bio": "Creating beauty one face at a time 💄",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 125,
+                "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New glam look #makeup #beauty",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "beauty_lover",
+                        "text": "What products did you use?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 27,
+        "username": "business_guru",
+        "fullName": "Richard Sharp",
+        "avatar": "https://randomuser.me/api/portraits/men/80.jpg",
+        "isVerified": false,
+        "bio": "Entrepreneur and business coach 💼",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 126,
+                "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New venture launching soon! #entrepreneur #startup",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "business_lover",
+                        "text": "Can't wait to hear more!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 18,
+                "image": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "2h"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "username": "surfer_dude",
+        "fullName": "Jake Waves",
+        "avatar": "https://randomuser.me/api/portraits/men/33.jpg",
+        "isVerified": false,
+        "bio": "Chasing waves around the world 🌊",
+        "followers": 5432,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 127,
+                "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Perfect waves today! #surfing #ocean",
+                "likes": 765,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 29,
+        "username": "interior_design",
+        "fullName": "Emma Stone",
+        "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+        "isVerified": true,
+        "bio": "Transforming spaces into dreams 🏠",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 128,
+                "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Before and after! #interiordesign #homedecor",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "design_lover",
+                        "text": "What paint color is that?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 19,
+                "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "username": "astronomy_nerd",
+        "fullName": "Neil Star",
+        "avatar": "https://randomuser.me/api/portraits/men/55.jpg",
+        "isVerified": false,
+        "bio": "Gazing at the stars ✨",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 129,
+                "image": "https://images.unsplash.com/photo-1516571748831-5d81767b788d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Jupiter and its moons last night #astronomy #space",
+                "likes": 876,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "space_fan",
+                        "text": "What telescope do you use?",
+                        "timestamp": "2 days ago"
+                    }
+                ],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 31,
+        "username": "fitness_girl",
+        "fullName": "Tina Strong",
+        "avatar": "https://randomuser.me/api/portraits/women/35.jpg",
+        "isVerified": false,
+        "bio": "Strength and conditioning coach 💪",
+        "followers": 7654,
+        "following": 321,
+        "postsCount": 2,
+        "posts": [
+            {
+                "id": 130,
+                "image": "https://plus.unsplash.com/premium_photo-1674059549221-e2943b475f62?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New personal record! #fitness #strength",
+                "likes": 987,
+                "comments": [],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 32,
+        "username": "travel_photographer",
+        "fullName": "Alex Wander",
+        "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+        "isVerified": true,
+        "bio": "Capturing the world through my lens 🌎",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 131,
+                "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1121&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Sunrise in the mountains #photography #travel",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "photo_fan",
+                        "text": "What camera settings did you use?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 20,
+                "image": "https://plus.unsplash.com/premium_photo-1676496046182-356a6a0ed002?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "username": "vegan_chef",
+        "fullName": "Lily Plant",
+        "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+        "isVerified": false,
+        "bio": "Creating delicious plant-based meals 🌱",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 132,
+                "image": "https://images.unsplash.com/photo-1540914124281-342587941389?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New recipe alert! #vegan #plantbased",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "food_lover",
+                        "text": "Recipe please!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 34,
+        "username": "skateboard_pro",
+        "fullName": "Tony Flip",
+        "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+        "isVerified": true,
+        "bio": "Skateboarding since I could walk 🛹",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 133,
+                "image": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New trick landed! #skateboarding #extreme",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "skate_fan",
+                        "text": "That was insane!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 35,
+        "username": "book_reviewer",
+        "fullName": "Claire Page",
+        "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+        "isVerified": false,
+        "bio": "Reading and reviewing books daily 📖",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 134,
+                "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Just finished this amazing read #books #literature",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 36,
+        "username": "mixologist",
+        "fullName": "Jack Shake",
+        "avatar": "https://randomuser.me/api/portraits/men/70.jpg",
+        "isVerified": false,
+        "bio": "Crafting the perfect cocktails 🍹",
+        "followers": 7654,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 135,
+                "image": "https://images.unsplash.com/photo-1592858167090-2473780d894d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New summer cocktail menu! #mixology #bartender",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "drink_lover",
+                        "text": "What's in this one?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 37,
+        "username": "yoga_instructor",
+        "fullName": "Maya Zen",
+        "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+        "isVerified": false,
+        "bio": "Finding peace through yoga 🧘‍♀️",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 136,
+                "image": "https://images.unsplash.com/photo-1645318800735-737d3a422de6?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Morning meditation #yoga #mindfulness",
+                "likes": 987,
+                "comments": [],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 38,
+        "username": "motorcycle_rider",
+        "fullName": "Duke Rider",
+        "avatar": "https://randomuser.me/api/portraits/men/80.jpg",
+        "isVerified": true,
+        "bio": "Living life on two wheels 🏍️",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 137,
+                "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Cross-country trip begins! #motorcycle #adventure",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "bike_fan",
+                        "text": "Safe travels!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 39,
+        "username": "art_collector",
+        "fullName": "Vincent Art",
+        "avatar": "https://randomuser.me/api/portraits/men/33.jpg",
+        "isVerified": false,
+        "bio": "Appreciating art in all forms 🎨",
+        "followers": 5432,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 138,
+                "image": "https://images.unsplash.com/flagged/photo-1572392640988-ba48d1a74457?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New addition to my collection #art #collector",
+                "likes": 765,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "art_lover",
+                        "text": "Who's the artist?",
+                        "timestamp": "2 days ago"
+                    }
+                ],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 40,
+        "username": "fitness_model",
+        "fullName": "Ryan Fit",
+        "avatar": "https://randomuser.me/api/portraits/men/60.jpg",
+        "isVerified": true,
+        "bio": "Fitness model and trainer 💪",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 139,
+                "image": "https://images.unsplash.com/photo-1662961154170-d2421e29f94b?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Shoot for the new campaign #fitness #model",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "fan123",
+                        "text": "Looking amazing!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 41,
+        "username": "gardening_guru",
+        "fullName": "Rose Bloom",
+        "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+        "isVerified": false,
+        "bio": "Growing my garden with love 🌷",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 140,
+                "image": "https://plus.unsplash.com/premium_photo-1673141390230-8b4a3c3152b1?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "First harvest of the season! #gardening #organic",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 42,
+        "username": "tech_reviewer",
+        "fullName": "Gadget Guy",
+        "avatar": "https://randomuser.me/api/portraits/men/50.jpg",
+        "isVerified": true,
+        "bio": "Reviewing the latest tech gadgets 📱",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 141,
+                "image": "https://images.unsplash.com/photo-1613732814108-dbbd3dfce162?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Unboxing the new smartphone #tech #review",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "tech_fan",
+                        "text": "How's the battery life?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 43,
+        "username": "travel_blogger",
+        "fullName": "Wanderlust Sam",
+        "avatar": "https://randomuser.me/api/portraits/women/35.jpg",
+        "isVerified": false,
+        "bio": "Sharing my travel adventures ✈️",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 142,
+                "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Hidden gem in the mountains #travel #adventure",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "travel_fan",
+                        "text": "Where is this?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 44,
+        "username": "fashion_stylist",
+        "fullName": "Chloe Style",
+        "avatar": "https://randomuser.me/api/portraits/women/70.jpg",
+        "isVerified": false,
+        "bio": "Helping you find your perfect look 👗",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 143,
+                "image": "https://images.unsplash.com/photo-1608686862407-140903f9f149?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Client transformation! #stylist #fashion",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "style_lover",
+                        "text": "Amazing work!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 45,
+        "username": "coffee_roaster",
+        "fullName": "Bean Master",
+        "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+        "isVerified": false,
+        "bio": "Artisan coffee roaster ☕",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 144,
+                "image": "https://images.unsplash.com/photo-1495774856032-8b90bbb32b32?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "New batch of Ethiopian beans #coffee #roaster",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 46,
+        "username": "fitness_mom",
+        "fullName": "Jen Active",
+        "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+        "isVerified": true,
+        "bio": "Balancing fitness and family 👩‍👧‍👦",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 145,
+                "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Workout with the kids! #fitmom #family",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "mom_fan",
+                        "text": "You're an inspiration!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 47,
+        "username": "diy_queen",
+        "fullName": "Handy Hannah",
+        "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+        "isVerified": false,
+        "bio": "DIY projects and home improvements 🔨",
+        "followers": 8765,
+        "following": 321,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 146,
+                "image": "https://images.unsplash.com/photo-1657664066011-ed54a1be81d2?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Built this shelf from scratch! #diy #homeimprovement",
+                "likes": 987,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "diy_lover",
+                        "text": "Tutorial please!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 48,
+        "username": "snowboard_pro",
+        "fullName": "Jake Powder",
+        "avatar": "https://randomuser.me/api/portraits/men/70.jpg",
+        "isVerified": true,
+        "bio": "Chasing powder around the world 🏂",
+        "followers": 9876,
+        "following": 234,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 147,
+                "image": "https://images.unsplash.com/photo-1518608774889-b04d2abe7702?q=80&w=1112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Fresh powder day! #snowboarding #winter",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "snow_fan",
+                        "text": "Which resort is this?",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 49,
+        "username": "baking_queen",
+        "fullName": "Sugar Ella",
+        "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+        "isVerified": false,
+        "bio": "Sweet treats and baking tips 🍰",
+        "followers": 6543,
+        "following": 567,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 148,
+                "image": "https://plus.unsplash.com/premium_photo-1713447395823-2e0b40b75a89?q=80&w=682&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Birthday cake for a client #baking #dessert",
+                "likes": 876,
+                "comments": [],
+                "timestamp": "3 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": []
+    },
+    {
+        "id": 50,
+        "username": "adventure_photographer",
+        "fullName": "Max Explorer",
+        "avatar": "https://randomuser.me/api/portraits/men/80.jpg",
+        "isVerified": false,
+        "bio": "Documenting adventures around the globe 🌎",
+        "followers": 15678,
+        "following": 456,
+        "postsCount": 1,
+        "posts": [
+            {
+                "id": 149,
+                "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "caption": "Remote village in the mountains #travel #photography",
+                "likes": 2345,
+                "comments": [
+                    {
+                        "id": 1,
+                        "username": "travel_fan",
+                        "text": "Incredible shot!",
+                        "timestamp": "5h"
+                    }
+                ],
+                "timestamp": "2 days ago",
+                "isLiked": false,
+                "isSaved": false
+            }
+        ],
+        "stories": [
+            {
+                "id": 21,
+                "image": "https://images.unsplash.com/photo-1573072738379-7c640e17ac4e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "timestamp": "5h"
+            }
+        ]
+    }
+]
